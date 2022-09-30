@@ -21,7 +21,6 @@ namespace WebApplication2.Data
 
         public DbSet<WebApplication2.Models.Users>? Users { get; set; }
 
-    }
-
+    }      
 
 }
